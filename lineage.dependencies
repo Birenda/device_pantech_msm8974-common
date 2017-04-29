@@ -8,7 +8,7 @@
    "target_path": "vendor/pantech"
  },
  {
-   "repository": "android_kernel_pantech_msm8x74",
-   "target_path": "kernel/pantech/msm8x74"
+   "repository": "android_kernel_pantech_msm8974",
+   "target_path": "kernel/pantech/msm8974"
  }
 ]
